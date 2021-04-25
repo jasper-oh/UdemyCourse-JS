@@ -2,4 +2,7 @@
 
 Project with java-script
 
-Make simple web-application showing Time & Todo list
+Web Application with JavaScript Project in Udemy Course
+
+--> JQuery and insert API connect
+
